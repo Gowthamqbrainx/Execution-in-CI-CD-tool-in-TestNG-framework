@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14611" started-at="2020-02-28T10:04:50Z" finished-at="2020-02-28T10:05:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14611" started-at="2020-02-28T10:04:50Z" finished-at="2020-02-28T10:05:05Z">
+      <class name="qbrainx.adactin.ExecutionClass">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:qbrainx.adactin.ExecutionClass@1888ff2c]" name="testCase1" duration-ms="14597" started-at="2020-02-28T15:34:51Z" finished-at="2020-02-28T15:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- qbrainx.adactin.ExecutionClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
